@@ -1,0 +1,10 @@
+header:
+  version: 19
+
+repos:
+   meta-motion:
+    path: meta-motion
+   meta-motion-bsp:
+    path: meta-motion-bsp
+   meta-motion-distro:
+    path: meta-motion-distro

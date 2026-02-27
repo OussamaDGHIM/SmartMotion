@@ -1,0 +1,19 @@
+header:
+  version: 19
+header:
+  version: 19
+repos:  
+  bitbake:
+    url: https://git.openembedded.org/bitbake
+    path: layers/bitbake
+    branch: "2.0"
+    commit: 8e2d1f8de055549b2101614d85454fcd1d0f94b2
+    layers:
+      bitbake: disabled
+  openembedded-core:
+    url: https://git.openembedded.org/openembedded-core
+    path: layers/openembedded-core
+    branch: kirkstone
+    commit: e2994ca0076ec99038790e7a40936236a5078135
+    layers:
+      meta:
