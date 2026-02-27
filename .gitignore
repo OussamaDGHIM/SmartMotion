@@ -1,0 +1,6 @@
+build/
+layers/
+pythonenv/
+downloads/
+sstate-cache/
+.kas_shell_history
