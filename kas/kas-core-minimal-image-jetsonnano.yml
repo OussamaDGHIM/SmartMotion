@@ -6,7 +6,7 @@ header:
     - kas/include/jetsonnano.yml
     - kas/include/appLayers.yml
 machine: jetson-nano-devkit
-distro: nodistro
+distro: Mysmpd
 target: core-image-minimal
 
 
